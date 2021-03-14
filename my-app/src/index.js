@@ -1,3 +1,4 @@
+//Import the React and ReactDom libraries
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
