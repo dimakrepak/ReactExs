@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+.App {
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  height: 600px;
+  width: 500px;
+  border: 1px black solid;
+  margin: 2px;
+}
+.card {
+  height: 50%;
+  width: 100%;
+  border: 1px black solid;
+}
