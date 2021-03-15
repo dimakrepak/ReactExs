@@ -24,3 +24,12 @@ body {
   width: 100%;
   border: 1px black solid;
 }
+.yellow{
+  width: 100%;
+  height: 50px;
+  background-color: yellow;
+  border-bottom: violet 1px solid;
+}
+.none{
+  display: none;
+}
