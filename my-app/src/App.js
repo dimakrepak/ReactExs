@@ -6,13 +6,19 @@ import React, { Component } from 'react'
 // import Btn from './Components/buttons'
 // import Card from  './Components/card/card'
 // import Increase from './Components/increment'
-import './Components/card/style.css'
-import Container from './Components/HideandSeek'
+// import Container from './Components/HideandSeek'
+// import Container from './Components/LifeCycle'
+// import './Components/card/style.css'
+// import Box from './Components/BoxAnim'
+import './Components/Boxchange/box.css'
+import Box from './Components/Boxchange/BoxChange'
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Container/>
+        <Box/>
+        
+
       </div>
     )
   }

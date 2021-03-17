@@ -33,3 +33,16 @@ body {
 .none{
   display: none;
 }
+
+.in{
+  background-color: rgb(194, 194, 192);
+  margin: 2px;
+  transform: translate(-200px);
+  transition:all 1s ease-in-out;
+}
+.out{
+  background-color: rgb(194, 194, 192);
+  margin: 2px;
+  transform: translate(200px);
+  transition: 1s ease-in-out;
+}
