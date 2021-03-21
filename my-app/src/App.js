@@ -1,5 +1,9 @@
 import React, { Component } from 'react'
+import Father from './Components/Avatar/Father';
+import './Components/Avatar/style.css'
 
+// import Chuck from './Components/CHUCKNORRIS/Chuck';
+// import Father from './Components/DataMassaging/Father';
 // import BasicOfJSX from './Components/Basic2.2.jsx'
 // import Boxes from './Components/Boxes3.1/boxes'
 // import Quiz from './Components/Quiz/Quiz'
@@ -13,7 +17,8 @@ import React, { Component } from 'react'
 // import './Components/Boxchange/box.css'
 // import Box from './Components/Boxchange/BoxChange'
 // import Container from './Components/WhatIs/Father'
-import Father from './Components/Form/Name'
+// import Father from './Components/Form/Name'
+
 class App extends Component {
   render() {
     return (
