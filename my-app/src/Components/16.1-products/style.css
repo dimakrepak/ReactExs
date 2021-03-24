@@ -1,0 +1,39 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  height: 60px;
+  background-color: rgb(135, 196, 231);
+}
+.nav-links {
+  display: flex;
+  list-style: none;
+}
+.nav-links li {
+  color: black;
+  text-decoration: none;
+  display: block;
+  margin: 10px;
+}
+.product{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-flow: column;
+  margin: 10px;
+  height: 500px;
+  
+}
+.products{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  
+}
