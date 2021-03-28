@@ -1,3 +1,6 @@
+import React, { Component } from 'react'
+import Main from './Components/crud/Main';
+import './Components/crud/style.css'
 // import Autocopy from './Components/Autocopy';
 // import Focus from './Components/Focus'
 // import Father from './Components/Avatar/Father';
@@ -18,15 +21,15 @@
 // import Box from './Components/Boxchange/BoxChange'
 // import Container from './Components/WhatIs/Father'
 // import Father from './Components/Form/Name'
-import React, { Component } from 'react'
-import Main from './Components/16.1-products/Main'
-import './Components/16.1-products/style.css'
+// import Main from './Components/16.1-products/Main'
+// import './Components/16.1-products/style.css'
+
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Main></Main>
+        <Main />
       </div>
     )
   }
