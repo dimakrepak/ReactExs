@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
-import Main from './Components/crud/Main';
-import './Components/crud/style.css'
+import Father from './Components/18.1-text/Father'
+// import Main from './Components/crud/Main';
+// import './Components/crud/style.css'
 // import Autocopy from './Components/Autocopy';
 // import Focus from './Components/Focus'
 // import Father from './Components/Avatar/Father';
@@ -29,7 +30,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Main />
+        <Father />
       </div>
     )
   }
