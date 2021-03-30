@@ -1,5 +1,9 @@
 import React, { Component } from 'react'
-import Father from './Components/18.4-checked/Father';
+import Father from './Components/19.4.-Chuck/Father';
+// import Father from './Components/19.3-Alogolia/Father';
+// import Father from './Components/19.2-countries/Father';
+// import Father from './Components/19.1-simple-fetch/Father';
+// import Father from './Components/18.4-checked/Father';
 // import Father from './Components/18.3-time/Father';
 // import Father from './Components/18.2-to-do/Father'
 // import Father from './Components/18.1-text/Father'
