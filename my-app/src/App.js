@@ -1,5 +1,9 @@
 import React, { Component } from 'react'
-import Father from './Components/19.4.-Chuck/Father';
+import Img from './Components/21.3-Image Toggle/Img';
+// import Father from './Components/21.2 play and pause/Father';
+// import Father from './Components/21.1 editing/Father';
+// import Father from './Components/20.1-Cancel request/Father';
+// import Father from './Components/19.4.-Chuck/Father';
 // import Father from './Components/19.3-Alogolia/Father';
 // import Father from './Components/19.2-countries/Father';
 // import Father from './Components/19.1-simple-fetch/Father';
@@ -37,7 +41,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Father />
+        <Img />
       </div>
     )
   }
